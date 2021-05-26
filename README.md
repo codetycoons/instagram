@@ -1,1 +1,1 @@
-# Instagram
+This is clone of Instagram
